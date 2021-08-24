@@ -1,0 +1,7 @@
+Visit this Link to learn how to Schedule tasks using Windows Task Scheduler.
+
+--> https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10
+
+Import the "Wake Up from Sleep" XML file in Your Windows Task Scheduler. By default, this Task executes at 7:55 AM every weekday.
+
+Use the "Physics" XML file for Reference.
